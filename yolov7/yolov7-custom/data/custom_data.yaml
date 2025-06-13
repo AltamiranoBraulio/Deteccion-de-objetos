@@ -1,8 +1,0 @@
-train: ./data/train # 118287 images
-val: ./data/valid  
-
-# number of classes
-nc: 1
-
-# class names
-names: [ 'Resistor-Pelicula-de-Carbono']
