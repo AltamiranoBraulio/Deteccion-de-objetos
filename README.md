@@ -1,4 +1,6 @@
 # Deteccion-de-objetos
+# Equipo: Braulio Santiago Altamirano López 22310243---Aldo Melo Fregoso 22310201---Joaquin Monroy Navarro 22310267
+
 # Abre tu editor de texto y su correspondeinte terminal, en este caso es vs code y la terminal de powershell
 # 1-Crea un entorno virtual en tu equipo, ejemplo:
 python -m venv yolov7_env_py38
